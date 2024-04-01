@@ -1,7 +1,7 @@
 <img align="center" alt="Brazil" height="30" width="40" src="https://github.com/CaioEliws/CaioEliws/assets/133777500/749059fd-bc38-4338-9da7-3836b9b8a950" />
 
 ### Olá eu sou o Caio! 👋
-- 🔭 Estudante na área de programação Front-End e Back-End pela Rocketseat.
+- 🔭 Estudante na área de programação fullstack pela Rocketseat.
 - 📚 Atualmente estou estudando sobre React | Node | Javascript | React Native | Typescript.
 - 🚀 Participando ativamente de projetos para ampliar meu conhecimento sobre programação, buscando experiência e contribuindo para a comunidade de desenvolvimento.
 
@@ -10,7 +10,7 @@
 
 ### Hello, I'm Caio! 👋
 
-- 🔭 I'm a student in Front-End and Back-End programming at Rocketseat.
+- 🔭 I'm a student in fullstack programming at Rocketseat.
 - 📚 Currently, I'm delving into the realms of React, Node, Javascript, React Native, and Typescript.
 - 🚀 Actively participating in projects to broaden my programming knowledge, seeking hands-on experience, and contributing to the development community.
 
