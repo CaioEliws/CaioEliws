@@ -10,7 +10,7 @@
 
 ### Hello, I'm Caio! 👋
 
-- 🔭 I'm a student in fullstack programming at Rocketseat.
+- 🔭 I'm a student in fullstack programming.
 - 📚 Currently, I'm delving into the realms of React, Node, Javascript, React Native, and Typescript.
 - 🚀 Actively participating in projects to broaden my programming knowledge, seeking hands-on experience, and contributing to the development community.
 
