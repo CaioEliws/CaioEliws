@@ -2,7 +2,7 @@
 
 ### Olá eu sou o Caio! 👋
 - 🔭 Estudante na área de programação fullstack.
-- 📚 Atualmente estou estudando sobre React | Node | Typescript | React Native | Typescript | Python.
+- 📚 Atualmente estou estudando sobre React | Node | Typescript | React Native | Python.
 - 🚀 Participando ativamente de projetos para ampliar meu conhecimento sobre programação, buscando experiência e contribuindo para a comunidade de desenvolvimento.
 
 ##
@@ -11,7 +11,7 @@
 ### Hello, I'm Caio! 👋
 
 - 🔭 I'm a student in fullstack programming.
-- 📚 Currently, I'm delving into the realms of React | Node | Typescript | React Native | Typescript | Python.
+- 📚 Currently, I'm delving into the realms of React | Node | Typescript | React Native | Python.
 - 🚀 Actively participating in projects to broaden my programming knowledge, seeking hands-on experience, and contributing to the development community.
 
 ##
